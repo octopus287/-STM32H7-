@@ -1,0 +1,33 @@
+# Keil MDK 构建产物
+firmware/MDK-ARM/Motor_Test/
+firmware/MDK-ARM/*.uvguix.*
+firmware/MDK-ARM/*.lst
+firmware/*.bak
+
+# 编译输出
+*.o
+*.obj
+*.crf
+*.d
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.htm
+*.dep
+*.lnp
+*.lst
+*.i
+*.bak
+JLinkLog.txt
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.uvguix.*
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
