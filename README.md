@@ -10,7 +10,7 @@
 ![Control](https://img.shields.io/badge/Control%20Rate-20Hz-green)
 ![Toolchain](https://img.shields.io/badge/Toolchain-Keil%20MDK%20%2B%20CanMV-red)
 
-<img src="images/banner.png" width="800" alt="系统横幅">
+<img src="images/banner.jpg" width="800" alt="系统横幅">
 
 </div>
 
@@ -88,7 +88,7 @@
 ├── docs/                                # 设计文档
 │   └── 基于STM32H7的水稻病虫害识别与精准施药系统文档.pdf
 ├── images/                              # 图片素材
-│   ├── banner.png                       # 项目横幅
+│   ├── banner.jpg                       # 项目横幅
 │   ├── design/                          # 架构图 / 流程图
 │   ├── car_photos/                      # 整车实物照片
 │   └── field_photos/                    # 作业场景照片
